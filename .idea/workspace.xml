@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fec949f5-5c06-46e3-a1e0-59337178f5b6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise1/Exercise1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise1/Exercise1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise1/specs/Exercise1.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise1/specs/Exercise1.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Topbar/Topbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Topbar/Topbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Topbar/specs/Topbar.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Topbar/specs/Topbar.spec.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4605042">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="Exercise1.spec.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Exercise1/specs/Exercise1.spec.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="Exercise1.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Exercise1/Exercise1.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>l</find>
+      <find>k</find>
+      <find>n</find>
+      <find>int</find>
+      <find>.add</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>column</replace>
+      <replace>row</replace>
+      <replace>var</replace>
+      <replace>.push</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Topbar/Topbar.js" />
+        <option value="$PROJECT_DIR$/src/Topbar/specs/Topbar.spec.js" />
+        <option value="$PROJECT_DIR$/src/Exercise1/specs/Exercise1.spec.js" />
+        <option value="$PROJECT_DIR$/src/Exercise1/Exercise1.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kataReact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kataReact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kataReact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kataReact" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kataReact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kataReact" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kataReact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kataReact" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise1" type="462c0819:PsiDirectoryNode" />
+              <item name="specs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kataReact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kataReact" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kataReact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kataReact" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise2" type="462c0819:PsiDirectoryNode" />
+              <item name="specs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kataReact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kataReact" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Topbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kataReact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kataReact" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Topbar" type="462c0819:PsiDirectoryNode" />
+              <item name="specs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\eyebox\kataReact\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Jest.Exercise1">
+    <configuration name="Exercise1" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/Exercise1/specs/Exercise1.spec.js" />
+      <test-names>
+        <test-name value="Exercise1" />
+      </test-names>
+    </configuration>
+    <configuration name="Exercise1.on instance.example 2" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Exercise1/specs/Exercise1.spec.js" />
+      <test-names>
+        <test-name value="Exercise1" />
+        <test-name value="on instance" />
+        <test-name value="example 2" />
+      </test-names>
+    </configuration>
+    <configuration name="Exercise1.on instance.example 3" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Exercise1/specs/Exercise1.spec.js" />
+      <test-names>
+        <test-name value="Exercise1" />
+        <test-name value="on instance" />
+        <test-name value="example 3" />
+      </test-names>
+    </configuration>
+    <configuration name="Exercise1.on instance.get first row from the remaining rows" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Exercise1/specs/Exercise1.spec.js" />
+      <test-names>
+        <test-name value="Exercise1" />
+        <test-name value="on instance" />
+        <test-name value="get first row from the remaining rows" />
+      </test-names>
+    </configuration>
+    <list>
+      <item itemvalue="Jest.Exercise1.on instance.get first row from the remaining rows" />
+      <item itemvalue="Jest.Exercise1.on instance.example 2" />
+      <item itemvalue="Jest.Exercise1.on instance.example 3" />
+      <item itemvalue="Jest.Exercise1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Exercise1" />
+        <item itemvalue="Jest.Exercise1.on instance.example 3" />
+        <item itemvalue="Jest.Exercise1.on instance.example 2" />
+        <item itemvalue="Jest.Exercise1.on instance.get first row from the remaining rows" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fec949f5-5c06-46e3-a1e0-59337178f5b6" name="Default" comment="" />
+      <created>1528560412720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528560412720</updated>
+      <workItem from="1528560415509" duration="93000" />
+      <workItem from="1528560652061" duration="111000" />
+      <workItem from="1528560960599" duration="8788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Exercise1_on_instance_get_first_row_from_the_remaining_rows - 2018.06.09 at 12h 55m 07s.xml">
+      <configuration name="Exercise1.on instance.get first row from the remaining rows" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Exercise1_on_instance_get_first_row_from_the_remaining_rows - 2018.06.09 at 12h 56m 10s.xml">
+      <configuration name="Exercise1.on instance.get first row from the remaining rows" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Exercise1_on_instance_get_first_row_from_the_remaining_rows - 2018.06.09 at 12h 56m 44s.xml">
+      <configuration name="Exercise1.on instance.get first row from the remaining rows" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Exercise1_on_instance_get_first_row_from_the_remaining_rows - 2018.06.09 at 12h 57m 12s.xml">
+      <configuration name="Exercise1.on instance.get first row from the remaining rows" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Exercise1_on_instance_get_first_row_from_the_remaining_rows - 2018.06.09 at 12h 57m 25s.xml">
+      <configuration name="Exercise1.on instance.get first row from the remaining rows" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Exercise1_on_instance_get_first_row_from_the_remaining_rows - 2018.06.09 at 12h 59m 47s.xml">
+      <configuration name="Exercise1.on instance.get first row from the remaining rows" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Exercise1_on_instance_example_2 - 2018.06.09 at 13h 02m 07s.xml">
+      <configuration name="Exercise1.on instance.example 2" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Exercise1_on_instance_example_2 - 2018.06.09 at 13h 03m 11s.xml">
+      <configuration name="Exercise1.on instance.example 2" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Exercise1_on_instance_example_3 - 2018.06.09 at 13h 04m 35s.xml">
+      <configuration name="Exercise1.on instance.example 3" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Exercise1 - 2018.06.09 at 13h 12m 24s.xml">
+      <configuration name="Exercise1" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8992000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22526042" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32831737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994528" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22526042" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32831737" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994528" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Exercise1/specs/Exercise1.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise1/Exercise1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise1/specs/Exercise1.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise1/Exercise1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topbar/specs/Topbar.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topbar/Topbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise2/specs/Exercise2.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/babel-cli/lib/_babel-node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="118" column="6" selection-start-line="118" selection-start-column="6" selection-end-line="118" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise1/specs/Exercise1.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise1/Exercise1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
